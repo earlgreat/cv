@@ -9,12 +9,12 @@
       <tr>
         <td> <img src="teema.png" alt="teema-profile" width = "200" height = "200"></td>
         <td>   <h1>Sanusi Kamaldeen Olanrewaju</h1>
-          <p>Founder and CTO of ,<strong><em>The App Brewery</em></strong></p>
+          <p>Founder and CTO of ,<strong><em>  <a href="https://www.appbrewery.co/">The App Brewery</a>" </em></strong></p>
           <p>I am an ios developer. I love Coffee and brew my own tea</p>
         </td>
       </tr>
     </table>
-
+            
 
     <hr>
     <h2>Books and Teaching</h2>
